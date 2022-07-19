@@ -4,6 +4,5 @@
   "description": "a powercord version of ethernet-bot",
   "author": "hummusbird",
   "permissions": ["ext_api"],
-  "license": "MIT",
-  "dependencies": "asciichart"
+  "license": "MIT"
 }
