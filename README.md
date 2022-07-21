@@ -1,4 +1,3 @@
-
 # powercord-crypto
 powercord-crypto is a powercord plugin version of my discord bot, ethernet.
 It uses the coingecko API to get price data, and the [asciichart](https://github.com/kroitor/asciichart) module to create cool ascii price-history charts
